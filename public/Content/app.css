@@ -30,7 +30,12 @@
     margin-top: 23%;
 }
 
-center{
+h1{
+    animation-name: fadeIn;
+    animation-duration: 2;
+}
+
+a, p, h1 {
     animation-name: fadeIn;
     animation-duration: 2;
 }
